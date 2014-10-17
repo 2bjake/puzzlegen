@@ -1,3 +1,13 @@
-puzzlegen
-=========
-puzzle generators
+# puzzlegen
+
+# Local development
+
+```
+npm start
+```
+
+This should start local dev server. http://localhost:8000/crypto
+
+# license
+
+MIT
