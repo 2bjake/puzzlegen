@@ -1,3 +1,4 @@
+(function() {
 var app = angular.module('Crypto', []);
 app.controller('CryptoCtrl', ['$scope', function($scope) {
 
@@ -84,3 +85,5 @@ app.controller('CryptoCtrl', ['$scope', function($scope) {
   };
 
 }]);
+
+})();
