@@ -1,0 +1,32 @@
+@media print {
+  .controls {
+    display:none;
+  }
+}
+
+table.letterTable {
+  border:1px solid black;
+  border-collapse: collapse;
+  font-size:30px
+}
+
+table.letterTable td {
+  border:1px solid black;
+  text-align:center;
+  width:40px;
+}
+
+table.puzzleTable {
+  font-size:30px;
+}
+
+table.puzzleTable td {
+  padding:10px;
+  text-align:center;
+  width:75px;
+}
+
+.controls > * {
+  height:60px;
+  font-size:20pt;
+}
