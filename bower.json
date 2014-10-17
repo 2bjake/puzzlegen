@@ -1,0 +1,11 @@
+{
+  "name": "puzzlegen",
+  "description": "puzzle generator code",
+  "version": "0.0.0",
+  "homepage": "https://github.com/2bjake/puzzlegen",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "angular": "1.2.x"
+  }
+}
