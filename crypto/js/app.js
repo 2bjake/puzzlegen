@@ -2,7 +2,7 @@
 var app = angular.module('Crypto', []);
 app.controller('CryptoCtrl', ['$scope', function($scope) {
 
-  $scope.sentence ="";
+  $scope.sentence = "";
   $scope.lettersString = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
   $scope.letters = [];
   $scope.lettersToNumbers = {};
