@@ -1,4 +1,5 @@
 # puzzlegen
+Cryptogram puzzle generator
 
 # Local development
 
